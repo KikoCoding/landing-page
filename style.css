@@ -1,0 +1,18 @@
+body{
+    font-family: 'Roboto', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    gap:12px;
+}
+
+.logo, .header.links{
+    padding-bottom:64px;
+}
+
+ul{
+    list-style-type: none;
+}

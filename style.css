@@ -56,6 +56,12 @@ body{
     gap: 40px;
 }
 
+.review{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 .body.container2{
     background-color: #E5E7EB;
     padding: 120px;
@@ -102,6 +108,7 @@ h1{
 h2{
     display:flex;
     justify-content: center;
+    margin-bottom: 50px;
 }
 
 h3{
@@ -111,4 +118,9 @@ h3{
 }
 ul{
     list-style-type: none;
+}
+
+img{
+    border-radius: 15px;
+    
 }
